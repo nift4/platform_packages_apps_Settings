@@ -97,6 +97,7 @@ android_library {
         "SettingsLibActivityEmbedding",
         "Settings-change-ids",
         "VendorSupport-preference",
+        "SystemUIUnfoldLib",
         "vendor.lineage.fastcharge-V1.0-java",
         "vendor.lineage.trust-V1.0-java",
         "kotlin-stdlib",
